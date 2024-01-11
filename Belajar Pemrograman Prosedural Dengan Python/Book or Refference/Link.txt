@@ -1,0 +1,14 @@
+Daftar Referensi
+
+
+[1] Liem, Inggriani, Draft Diktat Kuliah Dasar Pemrograman (Bagian Pemrograman Prosedural, Departemen Informatika Institut Teknologi Bandung, 2007.
+
+[2] Catsoulis, John, Designing Embedded Hardware: Create New Computers and Devices, O’Reilly Media, Inc., 2005. [Online]. Tersedia: tautan.
+
+[3] Terrell, Riccardo, Concurrency in .NET, Manning Publications, 2018. [Online]. Tersedia: tautan.
+
+[4] Jonston, Tom, Biremporal Data, Morgan Kaufmann, 2014. [Online]. Tersedia: tautan.
+
+[5] C. Hoare, Programming: Sorcery or Science?, IEEE Software, vol. 1, no. 02, pp. 5-16, 1984. doi: 10.1109/MS.1984.234042
+
+[6] Matthes, Eric, Python Crash Course: 3rd Edition, No Starch Press, 2023. [Online]. Tersedia: tautan.
